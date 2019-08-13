@@ -37,7 +37,7 @@ setup(
         'promise==2.1',
         'graphql-core < 3.0, >=2.0',
         'graphene < 3.0, >= 2.0',
-        'botocore < 1.11.0, >= 1.10.0',
+        'botocore >= 1.10.0',
         'pynamodb >=2.0.0, <=4.0.0',
         'singledispatch>=3.4.0.3',
         'wrapt>=1.10.8'
